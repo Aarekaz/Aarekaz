@@ -17,12 +17,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarekaz)](https://github.com/Aarekaz/github-readme-stats)
 
-<details>
-  <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Aarekaz's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Aarekaz&show_icons=true&theme=radical&hide_border=true" />
+<summary>:zap: Github Stats</summary>
 
-</details>
+<img align="left" alt="Aarekaz's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Aarekaz&show_icons=true&theme=radical&hide_border=true" />
+
 
 [website]: https://www.anuragdhungana.com.np/
 [twitter]: https://twitter.com/dhungana_anurag
