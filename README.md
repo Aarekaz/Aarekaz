@@ -13,14 +13,14 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarekaz)](https://github.com/Aarekaz/github-readme-stats)
-
 
 :zap: Github Stats
 
 <img align="left" alt="Aarekaz's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Aarekaz&show_icons=true&theme=radical&hide_border=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarekaz)](https://github.com/Aarekaz/github-readme-stats)
+
+
 
 
 [website]: https://www.anuragdhungana.com.np/
