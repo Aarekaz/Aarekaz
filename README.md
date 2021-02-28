@@ -2,8 +2,8 @@
 
 ## I'm a Developer, Designer, Gamer, and a curious guy!
 
-- 🌱 I’m currently learning everything 🤣
-- ⚡ Trying to level up my photography game.
+- 🌱 I’m currently learning Python
+- ⚡ Trying to level up my Design game.
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
