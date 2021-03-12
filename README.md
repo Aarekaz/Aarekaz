@@ -4,6 +4,7 @@
 
 - 🌱 I’m currently learning Python
 - ⚡ Trying to level up my Design game.
+-  I have a passion for AI and how it can change the future moving forward.
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
