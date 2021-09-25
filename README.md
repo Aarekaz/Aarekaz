@@ -1,4 +1,4 @@
-### Hi there, I'm Anurag - aka [Aarekaz][website] 👋
+### Hi there, I'm Anurag - aka Aarekaz👋
 
 ##I am a Developer, Data enthusiast , Gamer and a curious guy.!
 
