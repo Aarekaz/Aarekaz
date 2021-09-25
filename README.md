@@ -2,11 +2,11 @@
 
 ##I am a Developer, Data enthusiast , Gamer and a curious guy.!
 
-- 🌱 I’m currently learning **Data Analysis Course by Google.**
+- 🌱 I’m currently learning Data Science.
 
 - 👨‍💻 My Portfolio is available at [www.anuragdhungana.com.np](www.anuragdhungana.com.np)
 
-- 🔭 I’m currently working on **leveling up my Python Skill.**
+- 🔭 I’m currently working on **leveling up my Python and Data Analysis Skill.**
 
 - 📫 How to reach me **hey@anuragdhungana.com.np**
 
