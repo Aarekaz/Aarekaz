@@ -7,7 +7,7 @@
 
 - 👨‍💻 My Portfolio is available at [www.anuragdhungana.com.np](www.anuragdhungana.com.np)
 
-- 🔭 I’m currently working on **imporiving my alaytical skills.**
+- 🔭 I’m currently working on **imporiving my analytical skills.**
 
 - 📫 How to reach me **hey@anuragdhungana.com.np**
 
