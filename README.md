@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/dhungana_anurag" target="blank"><img src="https://img.shields.io/twitter/follow/dhungana_anurag?logo=twitter&style=for-the-badge" alt="dhungana_anurag" /></a> </p>
 
-- 🌱 I’m currently learning **Data Analysis.**
+- 🌱 I’m currently learning **Python.**
 
 - 👨‍💻 My Portfolio is available at [www.anuragdhungana.com.np](www.anuragdhungana.com.np)
 
-- 🔭 I’m currently working on **leveling up my Python Skill.**
+- 🔭 I’m currently working on **imporiving my alaytical skills.**
 
 - 📫 How to reach me **hey@anuragdhungana.com.np**
 
