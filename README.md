@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Python.**
 
-- 🏢 Currently working as a Python Developer in [CloudFactory]{https://www.cloudfactory.com/}
+- 🏢 Currently working as a Python Developer in [CloudFactory](https://www.cloudfactory.com/).
 
-- 🧭 Contributing on Open Source at [Ivy Apps](https://github.com/Ivy-Apps)
+- 🧭 Contributing on Open Source at [Ivy Apps](https://github.com/Ivy-Apps).
 
-- 👨‍💻 My Portfolio is available at [www.anuragdhungana.com.np](www.anuragdhungana.com.np)
+- 👨‍💻 My Portfolio is available at [www.anuragdhungana.com.np](www.anuragdhungana.com.np).
 
 - 🔭 I’m currently working on **imporiving my data analytical skills.**
 
