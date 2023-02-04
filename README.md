@@ -5,17 +5,14 @@
 
 - 🌱 I’m currently learning **Python.**
 
-- 🏢 Currently working as a Python Developer in [CloudFactory](https://www.cloudfactory.com/).
-
-- 🧭 Contributing on Open Source at [Ivy Apps](https://github.com/Ivy-Apps).
+- 🧭 Managing [Ivy Apps](https://github.com/Ivy-Apps).
 
 - 👨‍💻 My Portfolio is available at [www.anuragdhungana.com.np](www.anuragdhungana.com.np).
 
-- 🔭 I’m currently working on **imporiving my data analytical skills.**
+- 🔭 I’m currently working on **building things that is going to create an Impact.**
 
 - 📫 How to reach me **hey@anuragdhungana.com.np**
 
-- 📄 Know about my experiences [https://rxresu.me/r/g1xwxy](https://rxresu.me/r/g1xwxy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
