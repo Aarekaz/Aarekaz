@@ -7,9 +7,9 @@
 
 - CoFounder at [Afterlaunch](https://www.afterlaunch.co.uk/)
 
-- 🧭 Managing [Ivy Apps](https://github.com/Ivy-Apps).
+- 🧭 Managing [Ivy Apps](https://ivywallet.app/).
 
-- 👨‍💻 My Portfolio is available at [www.anuragdhungana.com.np](www.anuragdhungana.com.np).
+- 👨‍💻 My Portfolio is available at [my website](www.anuragdhungana.com.np).
 
 - 🌱 I’m currently mastering **Python.**
 
