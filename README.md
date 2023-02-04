@@ -3,13 +3,15 @@
 
 <p align="left"> <a href="https://twitter.com/dhungana_anurag" target="blank"><img src="https://img.shields.io/twitter/follow/dhungana_anurag?logo=twitter&style=for-the-badge" alt="dhungana_anurag" /></a> </p>
 
-- 🌱 I’m currently learning **Python.**
+- 🔭 I’m currently working on **building things that is going to create an Impact.**
+
+- CoFounder at [Afterlaunch](https://www.afterlaunch.co.uk/)
 
 - 🧭 Managing [Ivy Apps](https://github.com/Ivy-Apps).
 
 - 👨‍💻 My Portfolio is available at [www.anuragdhungana.com.np](www.anuragdhungana.com.np).
 
-- 🔭 I’m currently working on **building things that is going to create an Impact.**
+- 🌱 I’m currently mastering **Python.**
 
 - 📫 How to reach me **hey@anuragdhungana.com.np**
 
@@ -18,8 +20,7 @@
 <p align="left">
 <a href="https://twitter.com/dhungana_anurag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhungana_anurag" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anuragdhungana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag-dhungana-76a4b4156/" height="30" width="40" /></a>
-<a href="https://dribbble.com/aarekaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="aarekaz" height="30" width="40" /></a>
-<a href="https://medium.com/@aarekaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aarekaz" height="30" width="40" /></a>
+
 
 </p>
 
