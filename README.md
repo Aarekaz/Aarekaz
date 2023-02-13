@@ -4,7 +4,7 @@
 <h3 align="center"> Python Developer | Data Analyst | CoFounder </h3>
 
 
-I'm a lifelong learner, always seeking out new challenges and knowledge. My love for research and tinkering with technology has led me to discover the power of data and programming, and my ultimate goal is to use it to empower people and help them better understand the world around them. I love building and scaling products that I believe would genuinely create an impact on how people use the technologies and opportunities that we currently have. When I am not doing random stuffs or tinkering with ideas, I love to cycle or read some books or binge watch a series.
+I'm a lifelong learner, always seeking out new challenges and knowledge. My love for research and tinkering with technology has led me to discover the power of data and programming, and my ultimate goal is to use it to empower people and help them better understand the world around them. I love building and scaling products that I believe would genuinely create an impact on how people use the technologies and opportunities that we currently have. When I am not doing random stuffs or tinkering with ideas, I love to cycle , read some books or binge watch a series.
 
 *   🌍  I'm based in Nepal
 *   🖥️  See my portfolio at [My Website](http://https://anuragdhungana.com.np/)
