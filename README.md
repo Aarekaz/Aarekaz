@@ -16,7 +16,7 @@ I'm a lifelong learner, always seeking out new challenges and knowledge. My love
 *   🧠  I'm learning DevOps
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/118623730934087681)](https://discord.com/users/118623730934087681)
+[![Discord Presence](https://lanyard.cnrad.dev/api/118623730934087681?theme=dark&bg=0d1117&idleMessage=Just%20Chilling)](https://discord.com/users/118623730934087681)
 
 ### Skills 
 <p align="left">
