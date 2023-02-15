@@ -15,7 +15,8 @@ I'm a lifelong learner, always seeking out new challenges and knowledge. My love
 *   📈  Project Manager @ [Ivy Wallet](https://ivywallet.app/)
 *   🧠  I'm learning DevOps
 
- [![Discord Presence](https://api.lanyard.rest/v1/users/118623730934087681?idlemessage=Just Chilling)](https://discord.com/users/118623730934087681)
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/118623730934087681)](https://discord.com/users/118623730934087681)
 
 ### Skills 
 <p align="left">
