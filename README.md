@@ -8,13 +8,11 @@ I'm a lifelong learner, always seeking out new challenges and knowledge. My love
 
 *   🌍  I'm based in Washington, DC
 *   🚀  Prev Machine Learning Engineer Intern @Cheers (YC S24)
-*   🖥️  See my portfolio at [My Website](http://https://anuragdhungana.com.np/)
-*   
+*   🖥️  See my website at [My Website](http://https://anuragdhungana.com.np/)
 *   ⚒️  Pursuing my Master's of Science in Computer Science at The George Washington University
-*   
 *   🏗️  Prev- Co-founder at [AfterLaunch](http://www.afterlaunch.co.uk/)
 *   📈  Prev - Project Manager @ [Ivy Wallet](https://ivywallet.app/)
-*   🧠  I'm learning DevOps
+*   🧠  I'm learning ML/MLOPS
 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/118623730934087681?theme=dark&bg=0d1117&idleMessage=Just%20Chilling)](https://discord.com/users/118623730934087681)
