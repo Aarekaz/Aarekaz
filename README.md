@@ -47,6 +47,6 @@
 
   ### Off-keyboard
 
-  🏎️ Formula 1 · 📚 30 pages/day · ✍️ [writing](https://www.anuragd.me/blog) · 📷 [cameras](https://www.anuragd.me/photography)
+  🏎️ Formula 1 · ✍️ [writing](https://www.anuragd.me/blog) · 📷 [cameras](https://www.anuragd.me/photography)
 
   ---
