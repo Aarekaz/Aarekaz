@@ -1,5 +1,5 @@
   <h1 align="center">Anurag Dhungana</h1>
-  <p align="center">ML engineer · MSCS at George Washington University · Washington, DC</p>
+  <p align="center">I like building useful tools, agent systems, and weird little experiments · MSCS @ GWU · Washington, DC</p>
 
   <p align="center">
     <a href="https://www.anuragd.me">anuragd.me</a> ·
