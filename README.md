@@ -60,7 +60,7 @@ Reading *The Complete Sherlock Holmes Collection*.
 
 [Full career →](https://www.anuragd.me/resume)
 
-**Stack:** TypeScript · Next.js · React · Cloudflare Workers · D1 · R2 · MCP · Python · PyTorch · LangChain · FastAPI · PostgreSQL · AWS
+**Stack:** TypeScript · Python · Next.js · React · Bun · Hono · Cloudflare Workers · D1 · R2 · MCP · Vercel AI SDK · PyTorch · FastAPI · PostgreSQL · AWS
 
 **Off-keyboard:** 🏎️ Formula 1 · 📷 [photography](https://www.anuragd.me/photography) · 🚴 cycling · 📚 [the shelf](https://www.anuragd.me/shelf)
 
