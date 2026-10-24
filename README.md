@@ -18,7 +18,7 @@ Reading *The Complete Sherlock Holmes Collection*.
 
 ### Building
 
-- **[Transit MCP](https://github.com/Aarekaz/transit-mcp)** ([live](https://transit-mcp.anuragd.me/)) — connects AI agents to live DC Metro and NYC Subway arrivals, incidents, and train positions. ~2K people use it daily. Cloudflare Workers · OAuth 2.1.
+- **[Transit MCP](https://github.com/Aarekaz/transit-mcp)** ([live](https://transit-mcp.anuragd.me/)) — connects AI agents to live DC Metro and NYC Subway arrivals, incidents, and train positions. Available as an official connector in Claude and [ChatGPT](https://chatgpt.com/plugins/plugin_asdk_app_6a9078f4d6dc8191be735cc1c2ff45b5). ~2K people use it daily. Cloudflare Workers · OAuth 2.1.
 - **[Dispatch](https://github.com/Aarekaz/dispatch)** *(in development)* — a self-hostable control plane for deployable agents: isolated sandboxes, chat, tool traces, channels, files, and scheduled runs.
 - **[Shrimp](https://github.com/Aarekaz/shrimp)** *(wip)* — open-source agent harness. ReAct loop, event bus, capability registry, approval gate. The model is the brain, Shrimp is the body.
 - **[SwitchBoard](https://github.com/Aarekaz/switchboard)** ([npm](https://www.npmjs.com/package/@aarekaz/switchboard)) — write one AI bot and run it on Slack, Teams, Google Chat, and Discord.
