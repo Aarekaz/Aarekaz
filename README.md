@@ -4,7 +4,7 @@
 
 I like building useful tools, agent systems, and weird little experiments. Software engineer on agentic infrastructure at **Wealth Architect** · MSCS @ GWU · Washington, DC.
 
-[anuragd.me](https://www.anuragd.me) · [/now](https://www.anuragd.me/now) · [/blog](https://www.anuragd.me/blog) · [/uses](https://www.anuragd.me/uses) · [LinkedIn](https://www.linkedin.com/in/anuragdhungana) · [anurag@anuragd.me](mailto:anurag@anuragd.me)
+[anuragd.me](https://www.anuragd.me) · [/now](https://www.anuragd.me/now) · [/blog](https://www.anuragd.me/blog) · [/uses](https://www.anuragd.me/uses) · [LinkedIn](https://www.linkedin.com/in/anuragdhungana) · [hey@anuragd.me](mailto:hey@anuragd.me)
 
 ### Now
 
