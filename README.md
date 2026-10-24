@@ -55,8 +55,10 @@ Reading *The Complete Sherlock Holmes Collection*.
 | Year | What |
 |---|---|
 | 2026 | Software Engineer, Agentic Infrastructure @ **Wealth Architect** · MSCS @ **GWU** |
-| 2025 | ML Engineer @ **Cheers (YC S24)** — agent orchestration · Founder University, cohort 9 |
+| 2025 | ML Engineer @ **Cheers (YC S24)** — agent orchestration |
 | 2020–2024 | Data Engineer @ **CloudFactory**, Client Success team |
+
+[Full career →](https://www.anuragd.me/resume)
 
 **Stack:** TypeScript · Next.js · React · Cloudflare Workers · D1 · R2 · MCP · Python · PyTorch · LangChain · FastAPI · PostgreSQL · AWS
 
