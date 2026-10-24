@@ -1,52 +1,67 @@
-  <h1 align="center">Anurag Dhungana</h1>
-  <p align="center">I like building useful tools, agent systems, and weird little experiments · MSCS @ GWU · Washington, DC</p>
+<a href="https://www.anuragd.me"><img src="assets/banner.webp" width="100%" alt="A tour of anuragd.me: the camera zooms out from a card reading Anurag Dhungana, Building, experimenting, sharing, across a wall of photos, essays, projects, coding and cycling stats, and books."></a>
 
-  <p align="center">
-    <a href="https://www.anuragd.me">anuragd.me</a> ·
-    <a href="https://www.anuragd.me/now">/now</a> ·
-    <a href="https://www.anuragd.me/uses">/uses</a> ·
-    <a href="https://www.linkedin.com/in/anuragdhungana">LinkedIn</a> ·
-    <a href="mailto:anurag@anuragd.me">anurag@anuragd.me</a>
-  </p>
+## Anurag Dhungana
 
-  ---
+I like building useful tools, agent systems, and weird little experiments. Software engineer on agentic infrastructure at **Wealth Architect** · MSCS @ GWU · Washington, DC.
 
-  I believe in doing hard things, shipping fast, and learning obsessively. Currently focused on agent infrastructure, LLM memory, and evaluation systems.
+[anuragd.me](https://www.anuragd.me) · [/now](https://www.anuragd.me/now) · [/blog](https://www.anuragd.me/blog) · [/uses](https://www.anuragd.me/uses) · [LinkedIn](https://www.linkedin.com/in/anuragdhungana) · [hey@anuragd.me](mailto:hey@anuragd.me)
 
-  ### Agent infra & MCP
+### Now
 
-  - **[Metro MCP](https://github.com/Aarekaz/metro-mcp)** ([live](https://metro-mcp.anuragd.me/)) — MCP server for real-time DC Metro & NYC Subway. ~2K daily users. Cloudflare Workers · OAuth 2.1.
-  - **[Raindrop MCP](https://github.com/aarekaz/raindrop-mcp)** ([live](https://raindrop-mcp.anuragd.me/)) — MCP server for raindrop.io bookmarks.
-  - **[SwitchBoard](https://github.com/Aarekaz/switchboard)** *([npm](https://www.npmjs.com/package/@aarekaz/switchboard))* — Universal SDK for chat platforms. Build bots once, deploy to Discord,
-  Slack, Teams, Google Chat.
-  - **[Shrimp](https://github.com/aarekaz/shrimp)** *(wip)* — open-source agent harness. ReAct loop + event bus + capability registry + approval gate. The model is the brain, Shrimp is the body.
-  - **[Session Base](https://www.sessionbase.ai/)** ([CLI](https://github.com/sessionbase/cli)) — capture, organize, and share sessions across coding-agent platforms.
-  - **[SEAS Search](https://seas-search.vercel.app/)** — knowledge-graph QA. Llama 3.1 + Graph-RAG for GWU SEAS courses.
+<!-- now:start -->
+I’m working at Wealth Architect, focused on harness engineering for conversational agents and financial agents.
 
-  ### Tools & web
+Reading *The Complete Sherlock Holmes Collection*.
 
-  - **[Commit Grove](https://commit-grove.vercel.app/)** — turn a GitHub contribution graph into a 3D forest or city, grown week by week from your commit history.
-  - **[Termweather](https://termweather.anuragd.me/)** *(`npm i -g termweather`)* — beautiful weather in your terminal. CLI + TUI + site.
-  - **[FlowWrite](https://flowwrite.anuragd.me/)** — minimal distraction-free writing app, fully local.
-  - **[SplitSimple](https://splitsimple.anuragd.me/)** — easy bill splitting for groups.
-  - **[Personal API](https://api.anuragd.me/)** — Cloudflare Workers + D1 + R2 backend that powers everything on anuragd.me.
+<sub>From [/now](https://www.anuragd.me/now), updated September 27, 2026.</sub>
+<!-- now:end -->
 
-  ### Career arc
+### Building
 
-  | Year | What |
-  |---|---|
-  | Now | Building agent infrastructure independently · MSCS @ GWU (Graduating May 2026) |
-  | 2025 | ML Engineer @ **Cheers (YC S24)** — AI agent orchestration · Python · TypeScript|
-  | 2023 | Co-founded **AfterLaunch** (150+ builders) 
-  | 2022 | Product Manager @ **Ivy Apps** — grew installs 40K → 70K |
-  | 2020 | **CloudFactory** — data engineer working on annotation data |
+- **[Transit MCP](https://github.com/Aarekaz/transit-mcp)** ([live](https://transit-mcp.anuragd.me/)) — connects AI agents to live DC Metro and NYC Subway arrivals, incidents, and train positions. Available as an official connector in Claude and [ChatGPT](https://chatgpt.com/plugins/plugin_asdk_app_6a9078f4d6dc8191be735cc1c2ff45b5). ~2K people use it daily. Cloudflare Workers · OAuth 2.1.
+- **[Dispatch](https://github.com/Aarekaz/dispatch)** *(in development)* — a self-hostable control plane for deployable agents: isolated sandboxes, chat, tool traces, channels, files, and scheduled runs.
+- **[Shrimp](https://github.com/Aarekaz/shrimp)** *(wip)* — open-source agent harness. ReAct loop, event bus, capability registry, approval gate. The model is the brain, Shrimp is the body.
+- **[SwitchBoard](https://github.com/Aarekaz/switchboard)** ([npm](https://www.npmjs.com/package/@aarekaz/switchboard)) — write one AI bot and run it on Slack, Teams, Google Chat, and Discord.
+- **[Raindrop MCP](https://github.com/Aarekaz/raindrop-mcp)** ([live](https://raindrop-mcp.anuragd.me/)) — MCP server for Raindrop.io bookmarks, collections, tags, and highlights.
+- **[Session Base](https://www.sessionbase.ai/)** ([CLI](https://github.com/sessionbase/cli)) — capture, organize, and share sessions across coding-agent platforms.
 
-  ### Stack
+<details>
+<summary><b>Smaller things</b></summary>
+<br>
 
-  TypeScript · Next.js · React · Cloudflare Workers · D1 · R2 · MCP · LangChain · Python · PyTorch · FastAPI · PostgreSQL · AWS
+- **[Termweather](https://termweather.anuragd.me/)** (`npm i -g termweather`) — weather in your terminal: CLI, TUI, and site.
+- **[Commit Grove](https://commit-grove.vercel.app/)** — grows your GitHub contribution graph into a 3D forest or city.
+- **[Runwayr](https://github.com/Aarekaz/runwayr)** — headcount and runway planner, with a casino mode for seeing how fast a hiring plan kills a startup.
+- **[FlowWrite](https://flowwrite.anuragd.me/)** — distraction-free writing, fully local.
+- **[SplitSimple](https://splitsimple.anuragd.me/)** — easy bill splitting for groups.
+- **[SEAS Search](https://seas-search.vercel.app/)** — Graph-RAG over GWU SEAS courses with Llama 3.1.
+- **[Personal API](https://github.com/Aarekaz/api)** — Cloudflare Workers + D1 + R2. Everything on anuragd.me, including this README, is read from it.
 
-  ### Off-keyboard
+</details>
 
-  🏎️ Formula 1 · ✍️ [writing](https://www.anuragd.me/blog) · 📷 [cameras](https://www.anuragd.me/photography)
+### Writing
 
-  ---
+<!-- writing:start -->
+- [From an empty file](https://www.anuragd.me/blog/from-an-empty-file) · Sep 2026
+- [Harness engineering](https://www.anuragd.me/blog/agent-harnesses-explained) · Jun 2026
+- [the brain is easy. the body is hard.](https://www.anuragd.me/blog/the-brain-is-easy-the-body-is-hard) · Apr 2026
+- [tinkering](https://www.anuragd.me/blog/tikering) · Jan 2026
+
+[All writing →](https://www.anuragd.me/blog)
+<!-- writing:end -->
+
+### Career
+
+| Year | What |
+|---|---|
+| 2026 | Software Engineer, Agentic Infrastructure @ **Wealth Architect** · MSCS @ **GWU** |
+| 2025 | ML Engineer @ **Cheers (YC S24)** — agent orchestration |
+| 2020–2024 | Data Engineer @ **CloudFactory**, Client Success team |
+
+[Full career →](https://www.anuragd.me/resume)
+
+**Stack:** TypeScript · Next.js · React · Cloudflare Workers · D1 · R2 · MCP · Python · PyTorch · LangChain · FastAPI · PostgreSQL · AWS
+
+**Off-keyboard:** 🏎️ Formula 1 · 📷 [photography](https://www.anuragd.me/photography) · 🚴 cycling · 📚 [the shelf](https://www.anuragd.me/shelf)
+
+<sub>Now and Writing update daily from anuragd.me.</sub>
