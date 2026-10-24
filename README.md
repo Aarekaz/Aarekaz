@@ -56,7 +56,7 @@ Reading *The Complete Sherlock Holmes Collection*.
 |---|---|
 | 2026 | Software Engineer, Agentic Infrastructure @ **Wealth Architect** · MSCS @ **GWU** |
 | 2025 | ML Engineer @ **Cheers (YC S24)** — agent orchestration · Founder University, cohort 9 |
-| 2020–2024 | Data Engineer @ **CloudFactory** — three promotions in four years |
+| 2020–2024 | **CloudFactory** — three promotions in four years, ending as Data Engineer |
 
 **Stack:** TypeScript · Next.js · React · Cloudflare Workers · D1 · R2 · MCP · Python · PyTorch · LangChain · FastAPI · PostgreSQL · AWS
 
