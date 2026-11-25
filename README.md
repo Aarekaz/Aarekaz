@@ -13,7 +13,7 @@ I’m working at Wealth Architect, focused on harness engineering for conversati
 
 Reading *The Complete Sherlock Holmes Collection*.
 
-<sub>From [/now](https://www.anuragd.me/now), updated September 27, 2026.</sub>
+<sub>From [/now](https://www.anuragd.me/now), updated November 24, 2026.</sub>
 <!-- now:end -->
 
 ### Building
